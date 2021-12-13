@@ -1,0 +1,11 @@
+
+.SubmitBtn{
+    min-width: 100px;
+    padding:5px;
+    background-color: orangered;
+    color:white;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+  }
